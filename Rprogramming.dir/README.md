@@ -1,5 +1,5 @@
-#This is the different code that is used, written to attend the first part of the course of data analysis: R programming
-
+# R programming course
+## First part of the data analysis course
 The course consists in 4 weeks
 
 *Week 0: Introduction
